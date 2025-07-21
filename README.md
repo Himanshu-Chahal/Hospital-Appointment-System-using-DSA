@@ -48,18 +48,14 @@ Slot Map (Normal)   Emergency Queue (Severity-based)
   ↓       ↓
      Log File (Persistent Tracking)
 
-🖼️ Sample Screenshot
-(Include a screenshot image of your CLI in action, e.g., menu or appointment list display.)
+
 
 📁 File Structure
 
 main.cpp – Full source code
 
-log.txt – Auto-generated activity log
-
 README.txt – Project documentation
 
-screenshot.png – CLI interface preview
 
 🚀 How to Run
 
